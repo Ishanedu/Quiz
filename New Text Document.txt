@@ -1,0 +1,22 @@
+<html>
+<head>
+  <title>HTML Assignment</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <center>
+  <div id="quiz">
+    <h1>World Quiz</h1>
+    <div id="progress-bar"></div>
+    <h3><div id="timer">5:00</div></h3>
+    <h2><div id="question"></div></h2>
+    <div id="image"></div>
+    <div id="options"></div>
+     
+
+  </div>
+
+  <script src="script.js"></script>
+  </center>
+</body>
+</html>

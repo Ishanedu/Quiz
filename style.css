@@ -1,0 +1,31 @@
+
+body{
+  background-image: url(world-political-map.jpeg);
+}
+
+button{
+  background-color: #ce6d12;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 5;
+  border: none;
+  cursor: pointer;
+  width: 15%;
+  border-radius: 6px;
+  transition-duration:0.5s ;
+}
+button:hover{
+  background-color: #c88241;
+}
+h1{
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 50px;
+}
+h2{
+  font-family:"Segoe UI", sans-serif;
+  font-size: 40px;
+}
+h3{
+  font-family:"Segoe UI", sans-serif;
+  font-size: 30px;;
+}
